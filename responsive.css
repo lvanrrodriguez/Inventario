@@ -1,0 +1,651 @@
+/* celulares */
+@media only screen and (min-device-width: 1px) and (max-device-width: 700px) and (orientation: portrait) {
+/* @media only screen and (max-device-width: 700px) and (orientation: portrait) { */
+    .titulo {  
+        font-size: 95px;
+      }
+    /* Inputs para agregar productos */
+    .agregar_productos {
+        font-size: 31px;
+        margin-top: 75px;
+        margin-left: 20px;
+      }
+
+      .imputs_para_agregar_productos {
+        font-size: 19px;
+      }
+      .boton1 {
+        width: 13%;
+        font-size: 23px;
+        margin-left: 10px;
+      }
+/* buscador */
+      .buscador {
+        top: 8.8%;
+      }
+     
+      .buscador button {
+        font-size: 30px;
+      }
+      .buscador input[type="text"] {
+        font-size: 22px;
+    width: 280px;
+      }
+
+      /* filtadores */
+      .filtrador {
+        margin-left: 2.5%;
+        margin-top: 4%;
+      }
+      .filtrostockss {
+        font-size: 26px;
+    }
+    .dropdown-menu li {
+      font-size: 20px;
+  }
+      .todoslosproductos {
+        font-size: 28px;
+        border-radius: 5px;
+      }
+      .LI_detodoslosproductos{
+        display: inline-block;
+      }
+      .dropdown {
+        display: inline-block;
+        margin-left: 45px;
+        border-radius: 5px;
+    }
+      /* tabla */
+      table {
+        width: 70%;
+        margin-top: 14.5%;
+      }
+      th, td {
+        font-size: 23px;
+    }
+    
+    td form input {
+      font-size: 23px;
+  }
+  tr:hover form input {
+    width: 6%;
+    margin-left: 20px;
+}
+.boton-modificar {
+  font-size: 12px;
+  margin-left: 70%;
+}
+tr:hover .iconoborrarelemento {
+  border: 0.2px solid #F9F9F9;
+  border-bottom: 4px solid #F9F9F9;
+}
+.historial{
+  right: 5.5%;
+  border-radius: 10px;
+  padding: 6px;
+  font-size: 23px;
+ top: 17.4%;
+}
+
+
+}
+
+
+
+/* ecelulares orientation: landscape */
+@media (max-device-width: 1023px) and (orientation: landscape) {
+
+  .titulo {  
+    font-size: 65px;
+  }
+/* Inputs para agregar productos */
+.agregar_productos {
+    font-size: 22px;
+    margin-left: 20px;
+  }
+
+  .imputs_para_agregar_productos {
+    font-size: 9px;
+  }
+  .boton1 {
+    width: 8%;
+    font-size: 15px;
+    margin-left: 5px;
+  }
+/* buscador */
+  .buscador {
+    top: 25%;
+  }
+ 
+  .buscador button {
+    font-size: 20px;
+  }
+  .buscador input[type="text"] {
+    font-size: 13px;
+    width: 190px;
+  }
+  /* Filtradores */
+  .filtrador {
+    margin-left: 2.5%;
+  }
+  .filtrostockss {
+    font-size: 15px;
+}
+.dropdown-menu li {
+  font-size: 12px;
+}
+  .todoslosproductos {
+    font-size: 17px;
+    border-radius: 5px;
+  }
+  .LI_detodoslosproductos{
+    display: inline-block;
+  }
+  .dropdown {
+    display: inline-block;
+    margin-left: 25px;
+    border-radius: 5px;
+}
+ /* tabla */
+ table {
+  width: 70%;
+  margin-top: 8%;
+}
+th, td {
+  font-size: 13px;
+}
+
+td form input {
+font-size: 13px;
+}
+tr:hover form input {
+width: 6%;
+margin-left: 20px;
+}
+.boton-modificar {
+font-size: 8px;
+margin-left: 70%;
+}
+tr:hover .iconoborrarelemento {
+border: 0.2px solid #F9F9F9;
+border-bottom: 8px solid #F9F9F9;
+}
+}
+
+
+
+
+
+
+
+
+
+    /* Tablets */
+    @media only screen and (min-device-width: 701px) and (max-device-width: 1024px) and (orientation: portrait) {
+      .titulo {  
+        font-size: 95px;
+      }
+    /* Inputs para agregar productos */
+    .agregar_productos {
+        font-size: 34px;
+        margin-top: 75px;
+        margin-left: 10px;
+      }
+
+      .imputs_para_agregar_productos {
+        font-size: 19px;
+      }
+      .boton1 {
+        width: 14%;
+        font-size: 24px;
+        margin-left: 5px;
+      }
+/* buscador */
+      .buscador {
+        top: 13%;
+      }
+     
+      .buscador button {
+        font-size: 36px;
+      }
+      .buscador input[type="text"] {
+        font-size: 24px;
+        width: 300px;
+    }
+
+      /* filtadores */
+      .filtrador {
+        margin-left: 2.5%;
+        margin-top: 4%;
+      }
+      .filtrostockss {
+        font-size: 28px;
+    }
+    .dropdown-menu li {
+      font-size: 22px;
+  }
+      .todoslosproductos {
+        font-size: 30px;
+        border-radius: 5.3px;
+      }
+      .LI_detodoslosproductos{
+        display: inline-block;
+      }
+      .dropdown {
+        display: inline-block;
+        margin-left: 45px;
+        border-radius: 5px;
+    }
+      /* tabla */
+      table {
+        width: 75%;
+        margin-top: 15%;
+      }
+
+      th, td {
+        font-size: 22px;
+    }
+
+    td form input {
+      font-size: 22px;
+  }
+  tr:hover form input {
+    width: 6%;
+    margin-left: 20px;
+}
+.boton-modificar {
+  font-size: 12px;
+  margin-left: 70%;
+}
+tr:hover .iconoborrarelemento {
+  border: 0.2px solid #F9F9F9;
+  border-bottom: 4px solid #F9F9F9;
+}
+.historial{
+  right: 3%;
+  border-radius: 10px;
+  padding: 7px;
+  font-size: 25px;
+ top: 28.5%;
+}
+}
+
+
+/* tablets en horizontal */
+@media only screen and (min-device-width: 1023px) and (max-device-width: 1280px) and (orientation: landscape) {
+ 
+/* Inputs para agregar productos */
+.agregar_productos {
+    font-size: 30px;
+    margin-top: 60px;
+    margin-left: 10px;
+  }
+
+  .imputs_para_agregar_productos {
+    font-size: 15px;
+  }
+  .boton1 {
+    width: 11%;
+    font-size: 24px;
+    margin-left: 5px;
+  }
+/* buscador */
+  .buscador {
+    top: 18%;
+  }
+ 
+  .buscador button {
+    font-size: 26px;
+  }
+  .buscador input[type="text"] {
+    font-size: 20px;
+    width: 260px;
+}
+
+  /* filtadores */
+  .filtrador {
+    margin-left: 2.5%;
+    margin-top: 4%;
+  }
+  .filtrostockss {
+    font-size: 23px;
+}
+.dropdown-menu li {
+  font-size: 22px;
+}
+  .todoslosproductos {
+    font-size: 25px;
+    border-radius: 5.3px;
+  }
+  .LI_detodoslosproductos{
+    display: inline-block;
+  }
+  .dropdown {
+    display: inline-block;
+    margin-left: 45px;
+    border-radius: 5px;
+}
+  /* tabla */
+  table {
+    width: 80%;
+    margin-top: 10%;
+  }
+
+  th, td {
+    font-size: 22px;
+}
+
+td form input {
+  font-size: 22px;
+}
+tr:hover form input {
+width: 6%;
+margin-left: 20px;
+}
+.boton-modificar {
+font-size: 12px;
+margin-left: 70%;
+}
+tr:hover .iconoborrarelemento {
+border: 0.2px solid #F9F9F9;
+border-bottom: 4px solid #F9F9F9;
+}
+.historial{
+  right: 7%;
+  border-radius: 10px;
+  padding: 7px;
+  font-size: 20px;
+ top: 45%;
+}
+}
+
+
+
+
+
+
+
+
+
+/* laptpots medianas */
+@media only screen and (min-device-width: 1025px) and (max-device-width: 1440px) and (orientation: portrait) {
+
+/* buscador */
+.buscador {
+  top: 16%;
+}
+
+.buscador button {
+  font-size: 30px;
+}
+.buscador input[type="text"] {
+  font-size: 17px;
+  width: 230px;
+}
+
+ /* Inputs para agregar productos */
+ .agregar_productos {
+  font-size: 28px;
+  margin-top: 25px;
+  margin-left: 10px;
+}
+
+.imputs_para_agregar_productos {
+  font-size: 15px;
+}
+.boton1 {
+  width: 9%;
+  font-size: 22px;
+  margin-left: 10px;
+}
+
+/* filtadores */
+.filtrador {
+  margin-left: 1%;
+  margin-top: 4%;
+}
+.filtrostockss {
+  font-size: 18px;
+}
+.dropdown-menu li {
+font-size: 16px;
+}
+.todoslosproductos {
+  font-size: 18px;
+  border-radius: 5.3px;
+}
+
+.dropdown {
+  border-radius: 5px;
+}
+
+/* tabla */
+table {
+  width: 55%;
+}
+
+th, td {
+  font-size: 18px;
+}
+
+td form input {
+font-size: 18px;
+}
+tr:hover form input {
+width: 5.5%;
+margin-left: 20px;
+}
+.boton-modificar {
+font-size: 12px;
+margin-left: 70%;
+}
+
+tr:hover .iconoborrarelemento {
+  border: 0.2px solid #F9F9F9;
+  border-bottom: 4px solid #F9F9F9;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* escritorios grandes */
+@media only screen and (min-device-width: 1441px) and (max-device-width: 2559px) and (orientation: portrait) {
+
+/* buscador */
+.buscador {
+  top: 12%;
+}
+
+.buscador button {
+  font-size: 32px;
+}
+.buscador input[type="text"] {
+  font-size: 22px;
+  width: 260px;
+  border-radius: 18px;
+}
+
+ /* Inputs para agregar productos */
+ .agregar_productos {
+  font-size: 35px;
+  margin-top: 25px;
+  margin-left: 25px;
+}
+
+.imputs_para_agregar_productos {
+  font-size: 18px;
+}
+.boton1 {
+  width: 7%;
+  font-size: 26px;
+  margin-left: 8px;
+}
+
+/* filtadores */
+.filtrador {
+  margin-top: 2.8%;
+}
+.filtrostockss {
+  font-size: 25px;
+}
+.dropdown-menu li {
+font-size: 23px;
+}
+.todoslosproductos {
+  font-size: 23px;
+  border-radius: 5.3px;
+}
+
+.dropdown {
+  border-radius: 5px;
+}
+/* tabla */
+table {
+  width: 55%;
+  margin-top: 1.5%;
+}
+
+th, td {
+  font-size: 21px;
+}
+
+td form input {
+font-size: 21px;
+}
+tr:hover form input {
+width: 4%;
+margin-left: 20px;
+}
+.boton-modificar {
+font-size: 12px;
+margin-left: 70%;
+}
+
+tr:hover .iconoborrarelemento {
+  border: 0.2px solid #F9F9F9;
+  border-bottom: 4px solid #F9F9F9;
+}
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* escritorios 4k */
+@media only screen and (min-device-width: 2560px) and (max-device-width: 9999999px) and (orientation: portrait) {
+
+  .titulo {
+    font-size: 105px;
+}
+/* buscador */
+.buscador {
+  top: 10%;
+}
+
+.buscador button {
+  font-size: 43.5px;
+}
+.buscador input[type="text"] {
+  font-size: 30px;
+  width: 330px;
+  border-radius: 22px;
+}
+
+ /* Inputs para agregar productos */
+ .agregar_productos {
+  font-size: 50px;
+  margin-top: 25px;
+  margin-left: 45px;
+}
+
+.imputs_para_agregar_productos {
+  font-size: 24px;
+}
+.boton1 {
+  width: 7%;
+  font-size: 35px;
+  margin-left: 8px;
+  border-radius: 25px;
+}
+
+/* filtadores */
+.filtrador {
+  margin-top: 3.8%;
+}
+.filtrostockss {
+  font-size: 30px;
+}
+.dropdown-menu li {
+font-size: 30px;
+}
+.todoslosproductos {
+  font-size: 32px;
+  border-radius: 5.3px;
+}
+
+.dropdown {
+  border-radius: 5px;
+}
+/* tabla */
+table {
+  width: 55%;
+  margin-top: 2.5%;
+}
+
+th, td {
+  font-size: 28px;
+}
+
+td form input {
+font-size: 28px;
+}
+tr:hover form input {
+width: 4.3%;
+margin-left: 20px;
+}
+.boton-modificar {
+font-size: 19.5px;
+margin-left: 70%;
+}
+
+tr:hover .iconoborrarelemento {
+  border: 0.2px solid #F9F9F9;
+  border-bottom: 4px solid #F9F9F9;
+}
+}
